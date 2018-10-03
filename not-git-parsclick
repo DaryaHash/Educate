@@ -1,0 +1,167 @@
+#lesson 14
+
+git log --since=2017-09-08			commit since date
+git log --untile=2018-01-10			commit untile date
+git log						all commit
+git log --author="???"				commit user ???
+git log -n1					first commit
+git log -n2					second commit
+git log --grep="file name or many name"		global regular sperstion
+
+
+--------------------------------
+#lesson 15
+
+commit chekout					2 tree
+
+1)git add file.text				save on staging index1111
+2)git commit file.text			save on repository
+					for 3 tree
+sink 	= update data
+
+
+--------------------------------
+#lesson 16
+
+
+--------------------------------
+#lesson 17
+
+cheksum	 					collect of number and letter
+crypto algorithm for hash = SHA-1	(40 character)
+
+
+--------------------------------
+#lesson 18
+
+cd git
+cd .git					show refs/heads/master
+cd head					not directory
+cat HEAD				show data
+cd refs					change directory
+ls -la					chek list
+cd heads				change directory
+ls -la					chek list
+cd master 				not directory
+cat master				show hash
+git log					show that where is head
+
+
+--------------------------------
+#lesson 19
+
+git status				how to other station
+git add ???				add file to staging
+
+
+--------------------------------
+#lesson 20
+
+git add .				all file add to staging
+git commit -m "message"			file add to repo
+
+
+--------------------------------
+#lesson 21
+
+git diff				show diffrenet files
+git diff ???				show diffrent ?? file
+
+
+--------------------------------  
+#lesson 22
+
+git diff --staged			show change file on staging
+=git diff --cached
+git diff after git add don't show diffrenet
+
+
+--------------------------------
+#lesson 23
+
+
+for file that in repo and i delete by clik right:
+	1. git add .
+	2. git commit -m " ?? "
+then delete
+
+for file in repo :
+	1. git rm ??
+	2. git commit -m ??
+then delete
+
+
+--------------------------------
+#lesson 24
+
+*for file in repo and change name with by clik right and then:
+	1. git add ??
+	and known that rename
+
+*for file in repo just:
+	1. git mv file name file new name
+	and change rename
+
+*for move file in repo
+	1. git mv file name file directory/file new name
+	then move to new directory
+
+
+--------------------------------
+#lesson 25
+
+
+--------------------------------
+#lesson 26
+
+for make repo every file had to change to directory (cd ??)
+then git init and make repo for file and git add .
+then git commit -m "  ??? "
+
+--------------------------------
+#lesson 27
+
+*broken line
+
+	- shif S
+	fold long line = broken line for see
+
+* for show change line for file
+	git diff --color-words
+	just show change nat all text
+
+*for all commit 
+	git commit -am ' ?? '
+
+--------------------------------
+#lesson 28 
+
+*undo
+	git checkout ??
+
+* git chekout ??/
+ 	all change undo in file or directory
+
+* gti checkout ??
+ 	first chech file and then not found file check directory
+
+* git checkout --??
+	exactlly file undo
+
+--------------------------------
+#lesson 29 
+
+*undo of index stage
+	git add ??
+	git reset HEAD ??		unstage (back to working directory for undo and change befor commit)
+
+
+--------------------------------
+#lesson 30
+
+*undo of repo
+	
+
+
+
+
