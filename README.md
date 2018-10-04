@@ -1,4 +1,4 @@
 # Educate
 --------------------
 
-note about how to work git
+note about how to work git & markdown
