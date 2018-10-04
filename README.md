@@ -4,7 +4,7 @@
 every things that need me
 
 ## C++
-* [cheat sheet C++] (https://www.disi.unige.it/person/MoggiE/PG1-13/Cpp_reference.pdf)
+* [Cheat sheet C++](https://www.disi.unige.it/person/MoggiE/PG1-13/Cpp_reference.pdf)
 
 ## Markdown
 * [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
