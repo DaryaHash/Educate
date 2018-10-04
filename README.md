@@ -13,6 +13,7 @@ every things that need me
 * [Word to Markdown](https://word-to-markdown.herokuapp.com)
 
 ## Python
+* [Cheat Sheet Python](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 * [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-python-2e/), Second  Edition, by Allen B. Downey (free PDF book)
 * [Python for Everybody](https://www.py4e.com/book.php) by Charles R. Severance (free PDF book)
 * [Practical Programming (2nd edition): An Introduction to Computer Science Using Python 3](https://pragprog.com/book/gwpy2/practical-programming) by Paul Gries, Jennifer Campbell, and Jason Montojo, 2013.
