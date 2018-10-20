@@ -29,6 +29,8 @@ every things that need me
 * [Git Lab](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 * [GitHub Education](https://education.github.com/git-cheat-sheet-education.pdf)
 
-$a^12$
-$$x = y , x^2+y^3=5$$
+$ a^12$
+$$
+x = y , x^2+y^3=5
+$$
 
