@@ -28,3 +28,6 @@ every things that need me
 * [GitHub Training](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 * [Git Lab](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 * [GitHub Education](https://education.github.com/git-cheat-sheet-education.pdf)
+
+
+$$ a^12 $$
